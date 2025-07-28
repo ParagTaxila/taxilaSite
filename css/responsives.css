@@ -1,0 +1,1116 @@
+@media screen and (max-width: 1499px) {
+    .steam-itembx .teaminfo h5 {
+        font-size: 1rem;
+    }
+    .dglist li {
+        width: 50%;
+    }
+    .pageheader .main-nav .menu li.drop-down .sub-menu li a, .pageheader .main-nav .menu li a {
+        font-size: 13px;
+    }
+    .captiontxt{
+       width: 85%; 
+    }
+    .section.homeslider .caption h1 {
+        font-size: 1.5rem;
+        margin-bottom: 5px;
+    }
+}
+@media screen and (max-width: 1299px) {
+    .pageheader .main-nav {
+        padding-left: 5px;
+    }
+    .pageheader .main-nav .btn {
+        margin-left: 5px;
+        padding: 0.7rem 0.5rem;
+    }
+    .home-carousel .item .caption h1 {
+        margin-bottom: 10px;
+    }
+    .home-carousel .item .caption h2 {
+        margin-bottom: 10px;
+    }
+}
+@media screen and (max-width: 1199px) {
+    .scholarship-and-grants{
+        font-size: 16px;
+    }
+    .pageheader .main-nav {
+        display: none !important;
+    }
+    .pageheader .logo,
+    .pageheader.header-scrolled .logo {
+        width: 80px;
+    }
+    .mobile-nav .logo {
+        border-bottom: solid 1px #eee;
+        text-align: center;
+        padding: 10px;
+    }
+    .pageheader .logo a {
+        padding: 4px 0;
+    }
+    .mobile-nav .logo img {
+        width: 100px;
+    }
+    .mcontainer {
+        padding-top: 38px;
+    }
+    .tx-s-content h3 span {
+        font-size: 2rem;
+    }
+    .section.servicearea .s-inner > .container{
+        padding-left:0;
+        padding-right:0;
+        width:100%;
+        max-width:100%;
+    }
+    .s-inner {
+        position: static;
+    }
+    .txltitle h2,.txltitle h1 {
+        font-size: 20px;
+    }
+    .tx-info h3 {
+        font-size: 1.3rem;
+    }
+    .stm-bx .stpic {
+        width: 80px;
+        height: 80px;
+    }
+    .txlrank {
+        background: 0 0;
+        min-height: inherit;
+        padding: 0 20px;
+    }
+    .txlblogs li .blogcontent h3 {
+        font-size: 1rem;
+    }
+    .txlblogs li .blogcontent h3 {
+        white-space: normal;
+    }
+    .footer .snav li a {
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+    }
+    .footer {
+        font-size: 14px;
+        padding-top: 1rem;
+    }
+    .headernav .txlsearch {
+        position: absolute;
+        top: 0;
+        right: 40px;
+    }
+    .header-scrolled .txlsearch .btnsearch,
+    .txlsearch .btnsearch {
+        padding: 7px 10px;
+    }
+    .gridlist li .grid-bx {
+        padding: 10px;
+    }
+    .txlgallery {
+        padding: 0;
+    }
+    .txlgallery .grid .grid-item {
+        padding: 10px;
+    }
+    .txlgallery .grid .grid-item a {
+        border: solid 5px #fff;
+    }
+    .tmreclist li .tmaubx::before {
+        right: 0;
+    }
+    .tmreclist li:nth-child(even) .tmaubx::before {
+        left: 0;
+    }
+    .vdcardinfo h4 {
+        font-size: 1rem;
+    }
+    .stafinfo .abtstaf {
+        padding-left: 0;
+    }
+    .section.pagetitle.abtpagetitle {
+        min-height: 300px;
+    }
+    .aplydd .dropdown-menu {
+        width: 100%;
+    }
+    .txlevntgrid {
+        top: 40px;
+    }
+    .btnevent-menu {
+        display: block;
+    }
+    .txlevntgrid .txlevntlist {
+        position: absolute;
+        top: 8px;
+        z-index: 10;
+        overflow-y: auto;
+        left: -260px;
+        width: 260px;
+        transition: all 0.4s ease;
+        display: block;
+        padding: 0;
+    }
+    .txlevntgrid .txlevntlist li {
+        width: 100%;
+        border-right: none;
+        border-bottom: solid 1px #d8d8d8;
+    }
+    .txlevntgrid .txlevntlist li:last-child {
+        border-bottom: none;
+    }
+    .txlevntgrid .txlevntlist li a {
+        padding: 10px;
+        font-weight: 400;
+    }
+    .txlevntgrid.show .txlevntlist {
+        left: 0;
+    }
+    .txlgallery .grid .grid-item.txltitle {
+        margin: 1rem 0 0;
+    }
+    .txlevntgrid.show .btnevent-menu .fa-bars::before {
+        content: "\f00d";
+    }
+    .trainer-info h3 {
+        font-size: 1.6rem;
+    }
+    .btnlr .btn {
+        margin: 0 30px;
+    }
+    .dglist li a {
+        height: 140px;
+    }
+    .inner-page-banner-area .blogtitle-area h1 {
+        font-size: 30px;
+    }
+    .title-default {
+        font-size: 1.4rem;
+    }
+    .blog-details-page-inner .benef-block {
+        padding: 0;
+    }
+    .posts_navigation .bloglink h4 {
+        font-size: 16px;
+    }
+    .mbacertificate .inputname{
+        width:380px;
+    }
+    .mbacertificate .inputname .form-control{
+        font-size:24px;
+    }
+    .cardtimer .card-header{
+        padding:8px;
+    }
+    .cardtimer .tmr{
+        font-size:30px;
+    }
+    .campus-grid .screen-bx{
+        height:300px;
+    }
+    .campus-grid .campusframe{
+        padding:22px 53px 32px 53px;
+    }
+    .screen-events .campusframe {
+        padding: 5px;
+    }
+    .tmreclist li .tmquote .ythumb .playbtn {
+        left: 22%;
+        top: 49%;
+    }
+    .applynow {
+        position: inherit;
+        right: 0%;
+        margin-bottom: 15px;}
+}
+@media screen and (max-width: 991px) {
+    .home-carousel .item .caption h1 {
+        font-size: 2.8rem;
+    }
+    .admission .tx-content {
+        margin-top: 3rem;
+    }
+    .sec-title h2 {
+        font-size: 1.6rem;
+    }
+    .abinfo {
+        margin-top: 2rem;
+    }
+    .news .sec-title h2 {
+        font-size: 1.6rem;
+    }
+    .flink .fnav {
+        margin-top: 10px;
+    }
+    .flink,
+    .footer .snav {
+        margin-top: 1rem;
+    }
+    .awl li .awl-bx {
+        display: block;
+    }
+    .awl li .awl-bx .awlimg {
+        width: 100%;
+        height: auto;
+    }
+    .awl li .awlinfo {
+        width: 100%;
+    }
+    .tmreclist li .tmaubx {
+        flex-direction: column;
+        padding-left: 20px;
+    }
+    .tmreclist li:nth-child(even) .tmaubx {
+        padding-right: 20px;
+    }
+    .tmreclist li .tmaubx .pic {
+        width: 60px;
+        height: 60px;
+        margin: 0 auto 20px;
+    }
+    .tmaubx .author {
+        width: 100%;
+        padding-left: 0;
+        text-align: center;
+    }
+    .plcmntslide .owl-carousel.owl-theme .owl-nav .owl-prev {
+        left: 0;
+    }
+    .plcmntslide .owl-carousel.owl-theme .owl-nav .owl-next {
+        right: 0;
+    }
+    .faq .card .card-header .btn {
+        padding: 0.65rem 0.5rem;
+        font-size: 1rem;
+    }
+    .faq .card-header .btn::after {
+        right: 10px;
+    }
+    .mcolg li {
+        width: 33.33%;
+    }
+    .elep-side {
+        padding: 10px 0;
+    }
+    .elep-side h5 {
+        padding: 0 10px;
+    }
+    .pgdm-info h4 {
+        font-size: 1.2rem;
+    }
+    .videoinfo {
+        margin-top: 0;
+        left: 0;
+        padding: 15px;
+    }
+    .gridlist li {
+        width: 50%;
+    }
+    .paymenterms .skill-list li {
+        padding-right: 10px;
+    }
+    .text-justify {
+        text-align: left !important;
+    }
+    .tmreclist li .tmaubx::before {
+        -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+        transform: none;
+        width: 100%;
+        border-radius: 0;
+    }
+    .tmreclist li {
+        min-height: inherit;
+    }
+    .stafinfo .abtstaf h3 {
+        font-size: 1.5rem;
+        margin-bottom: 0.5rem;
+    }
+    .abtaxvdo h3 {
+        font-size: 1.3rem;
+        margin-bottom: 1rem;
+    }
+    .abtaxvdo h3 span {
+        font-size: 1rem;
+    }
+    .mbacertificate .inputname{
+        width:280px;
+    }
+    .mbacertificate .inputname .form-control{
+        font-size:18px;
+    }
+    .campus-grid .screen-bx{
+        height:260px;
+    }
+    .campus-grid .campusframe{
+        padding:18px 39px 28px 39px;
+    }
+    .screen-events .campusframe{
+        padding: 0;
+    }
+    .campusview .sidebar-nav li a{
+        padding:8px;
+        text-transform:none;
+    }
+    .screen-events .campusframe {
+        padding: 5px;
+    }
+    .tmreclist li .tmquote .ythumb .playbtn {
+        left: 22%;
+        top: 55%;
+        width: 35px;
+        height: 35px;
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .video-gallery .md-pills {
+		justify-content: center;
+		flex-direction: row;
+	}
+    .mhide {
+        display: none;
+    }
+    .dhide {
+        display: block !important;
+    }
+    .des-placement {
+        display: none !important;
+    }
+    .mobile-placement {
+        display: block !important;
+    }
+    .mobile-placement .breadcrumb{
+        padding-top:70px;
+    }
+    .home-carousel .item .caption h1{
+        font-size:23px;
+    }
+    .home-carousel .item .caption p{
+        font-size:12px;
+    }
+    .covid-message .covid-img-contant .covid-img{
+		float: none;
+		margin: 0 auto 20px;
+	}
+    .scholarship-btn{
+        text-align: left;
+    }
+    .s-bx li {
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid #aaa;
+    }
+    .s-bx li .icon {
+        position: static;
+        display: block;
+        font-size: 20px;
+    }
+    .s-bx li a {
+        padding: 5px;
+        text-align: center;
+    }
+    
+    .section.homeslider .caption h2 {
+        font-size: 1rem;
+        margin-bottom: 16px;
+    }
+    .section.homeslider .caption h3 {
+        margin-bottom: 16px;
+    }
+    .home-carousel .slick-arrow {
+        display: none !important;
+    }
+    .section {
+        padding-top: 2rem;
+    }
+    .tx-adm .widgethead {
+        font-size: 1.5rem;
+    }
+    .cmnform .btn {
+        height: auto;
+    }
+    .txltitle h2, .txltitle h1 {
+        padding: 15px;
+    }
+    .admission .tx-content .txltitle {
+        padding: 0;
+    }
+    .tx-content .btnBlock {
+        margin-top: 2rem;
+    }
+    .tx-info {
+        margin-top: 1.6rem;
+    }
+    .section.admission {
+        padding-bottom: 2rem;
+    }
+    .sec-title {
+        margin-bottom: 1rem;
+    }
+    .plc-bx .candt-bx,
+    .plc-bx .candtpic {
+        width: 100%;
+    }
+    .plc-bx .candt-bx {
+        margin-top: 2rem;
+    }
+    .plc-bx .whbx {
+        height: auto;
+    }
+    .owl-carousel.owl-theme .owl-nav {
+        margin-top: 2rem;
+    }
+    .stm-bx .tm-content {
+        width: 100%;
+        padding-left: 0;
+        text-align: center;
+    }
+    .stm-bx .stpic {
+        margin: 0 auto;
+    }
+    .stm-bx .tm-content::before {
+        left: 0;
+        width: 100%;
+    }
+    .awardlist li {
+        width: 100%;
+        border-right: none;
+        text-align: center;
+    }
+    .awardlist li:nth-child(3),
+    .awardlist li:nth-child(4) {
+        border-bottom: solid 1px #b5b7c0;
+    }
+    .section.awards {
+        padding-bottom: 2rem;
+    }
+    .news .sec-title h2 {
+        text-align: center;
+    }
+    .txlblogs li {
+        display: block;
+    }
+    .txlblogs li .blogcontent {
+        width: 100%;
+        padding-left: 0;
+        margin-top: 1rem;
+    }
+    .eventcol {
+        margin-top: 2rem;
+    }
+    .events > li {
+        display: block;
+        margin-bottom: 1rem;
+    }
+    .events > li:last-child {
+        margin-bottom: 0;
+    }
+    .events li .eventcontent {
+        width: 100%;
+        padding-left: 0;
+        margin-top: 1rem;
+    }
+    .events li .eventcontent > ul > li {
+        margin-bottom: 10px;
+    }
+    .section.news {
+        padding-bottom: 2rem;
+    }
+    .footer {
+        padding-top: 2rem;
+    }
+    .flogo {
+        display: none;
+    }
+    .footer .abtcomp {
+        padding-left: 0;
+    }
+    .footer .copyright {
+        margin: 0;
+        padding-top: 1rem;
+    }
+    .txltabsec .sidebar {
+        display: none;
+    }
+    .txltabsec .maincontent {
+        width: 100%;
+        padding: 0;
+    }
+    .section.txlbanner {
+        padding: 24% 0;
+    }
+    .txlawards .nav-tabs .nav-item + .nav-item {
+        margin: 0;
+    }
+    .txlawards .nav-tabs .nav-item {
+        width: 180px;
+    }
+    .txlawards .nav-tabs .nav-item .nav-link {
+        width: 100%;
+        font-size: 1.2rem;
+        text-align: center;
+        padding: 5px 10px 5px 5px;
+    }
+    .txltabsec .tab-body {
+        padding: 15px;
+    }
+    .award-panel .awl li {
+        padding: 0;
+        width: 100%;
+    }
+    .mhide {
+        display: none;
+    }
+    .dhide {
+        display: block !important;
+    }
+    .s-bx li .tx-s-content h3 {
+        margin: 0;
+    }
+    .caption.dhide {
+        display: flex !important;
+    }
+    .txlsearch .s-area .form-group .form-control {
+        text-align: left;
+    }
+    .breadcrumb .breadcrumb-item {
+        font-size: 1rem;
+    }
+    .txltitle {
+        margin-bottom: 1rem;
+    }
+    .rplan li {
+        width: 100%;
+        margin-bottom: 3rem;
+    }
+    .rptmline .tmlthumb {
+        margin-bottom: 110px;
+    }
+    .rptmline .tmlcontent {
+        min-height: inherit;
+    }
+    .rptmline.bottom .tmlthumb {
+        margin-top: 110px;
+    }
+    .rplan::before {
+        display: none;
+    }
+    .rplan {
+        margin: 1rem 0;
+    }
+    .rptmline .tmlthumb::after {
+        width: 130px;
+        height: 130px;
+    }
+    .rptmline .tmlthumb {
+        width: 120px;
+        height: 120px;
+        font-size: 40px;
+    }
+    .rpspace {
+        margin-top: 2rem;
+    }
+    .section.rprocess {
+        padding-bottom: 2rem;
+    }
+    .tmreclist li .tmquote {
+        width: 100%;
+        padding: 80px 15px 0 !important;
+        text-align: center;
+    }
+    .tmreclist li .tmaubx {
+        width: 100%;
+        padding: 20px !important;
+        background-color: #f7f7f7;
+        height: auto;
+    }
+    .tmreclist li .tmaubx::after,
+    .tmreclist li .tmaubx::before {
+        display: none;
+    }
+    .tmreclist li .tmquote::before {
+        top: 15px;
+    }
+    .tmreclist li:first-child {
+        border-top: none;
+    }
+    .tmreclist li .container {
+        padding: 0;
+    }
+    .mmb-0 {
+        margin-bottom: 0 !important;
+    }
+    .owl-item.active.center .item .itemwh::before {
+        left: -10px;
+    }
+    .owl-item.active.center .item .itemwh::after {
+        right: -10px;
+    }
+    .ctcr li {
+        width: 100%;
+        padding: 0;
+        margin-bottom: 20px;
+    }
+    .parallax {
+        padding-bottom: 2rem;
+    }
+    .c-value {
+        font-size: 2rem;
+    }
+    .ctcr li h3 {
+        font-size: 1.2rem;
+    }
+    .awardlist.plrpt li {
+        width: 50%;
+        padding: 20px 15px 15px;
+    }
+    .vdobx {
+        margin-top: 1rem;
+        height: auto;
+    }
+    .w50 li {
+        width: 100%;
+    }
+    .mcolg li {
+        width: 100%;
+    }
+    .section.intership {
+        padding-bottom: 2rem;
+    }
+    .breadcrumb-item + .breadcrumb-item::before {
+        padding: 0 5px;
+    }
+    .element-panel {
+        border-width: 10px;
+    }
+    .skill-list li {
+        width: 100%;
+        padding: 10px 0;
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .skill-list li .icon {
+        position: static;
+        display: block;
+        margin: 0 auto 1rem;
+    }
+    .mt-5 {
+        margin-top: 1rem !important;
+    }
+    .pb-5 {
+        padding-bottom: 1rem !important;
+    }
+    .pgdm-info .rpimg {
+        margin-bottom: 1rem;
+    }
+    .egpdm .btnBlock {
+        text-align: center;
+    }
+    .benef-block {
+        padding: 0;
+    }
+    .intrv-pros .rplan li {
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+    .intrv-pros .rplan li .rptmline .tmlthumb {
+        margin-bottom: 110px;
+    }
+    .mmb-1 {
+        margin-bottom: 1rem;
+    }
+    .intrv-pros .rplan.w33 li {
+        width: 100%;
+    }
+    .table thead th {
+        vertical-align: top;
+    }
+    .benef-blinner .table-responsive {
+        padding: 0;
+    }
+    .feesec .benef-blinner,
+    .feesec .benef-block {
+        height: auto;
+    }
+    .feesec .benef-block {
+        margin-bottom: 1rem;
+    }
+    .section.recruiters {
+        padding-bottom: 2rem;
+    }
+    .faculty-panel .gridlist {
+        margin-bottom: 1rem;
+    }
+    .gridlist li {
+        width: 100%;
+    }
+    .campusview .campuslist .campus-grid {
+        padding: 0;
+        width: 100% ! important;
+    }
+    .screen-events .campusframe {
+        padding: 5px;
+    }
+    .campus-grid .campusframe {
+        padding: 0;
+    }
+    .campus-grid .screen-bx {
+        background: #fff;
+        border: dashed 2px #da251c;
+        padding: 6px;
+        height:340px;
+    }
+    .campusview .campuslist li .txltitle {
+        padding-left: 0;
+    }
+    .campusview .sidebar-nav {
+        display: none;
+    }
+    .contact .skill-list li {
+        padding-left: 0;
+    }
+    .section.cmap {
+        height: auto;
+    }
+    .cmap::before {
+        display: none;
+    }
+    .cmap iframe {
+        height: 340px;
+    }
+    .cmap .c-bx {
+        margin: 1rem auto;
+        width: 90%;
+        position: static;
+    }
+    .cmap .c-bx .cmnform {
+        padding: 0;
+        border: none;
+    }
+    .drt-tm-quote blockquote {
+        text-align: left;
+    }
+    .fullheight {
+        height: auto;
+    }
+    .disclosure .card {
+        margin-bottom: 1rem;
+    }
+    .filter-button-group .btn-group .btn {
+        padding: 0.5rem;
+        font-size: 14px;
+    }
+    .steamslider {
+        padding: 0;
+    }
+    .stvdoslider .owl-stage .owl-item:nth-child(odd) {
+        margin-top: 0;
+    }
+    .stvdoslider.owl-carousel.owl-theme .owl-nav {
+        margin-top: 0;
+    }
+    .mostec .rpimg img {
+        width: auto;
+    }
+    .mostec .rpimg {
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+    .section.mostec {
+        padding: 3rem 0 1rem;
+    }
+    .paymenterms .skill-list li {
+        width: 100%;
+        padding-right: 0;
+    }
+    .section.me-home .red-bg {
+        display: none;
+    }
+    .iq-home {
+        margin-left: 0;
+        margin-top: 60px;
+        padding: 0;
+    }
+    .iq-home .content-deta {
+        margin-top: 1rem;
+    }
+    .iq-home .content-deta h2 {
+        font-size: 1.2rem;
+        margin-bottom: 0.5rem;
+        text-align: center;
+    }
+    .iq-home .content-deta h3 {
+        font-size: 1rem;
+        margin-bottom: 0.5rem;
+        text-align: center;
+    }
+    .iq-home .inner-box {
+        height: auto;
+    }
+    .me-home-container {
+        height: auto;
+    }
+    .blheader h3 {
+        font-size: 1.2rem;
+    }
+    .stafinfo .rpimg img {
+        width: auto;
+    }
+    .gridlist li .grid-bx .grid-thumb {
+        width: 220px;
+    }
+    .stafinfo .rpimg {
+        width: 220px;
+        margin: 0 auto;
+    }
+    .stafinfo .abtstaf {
+        padding-top: 15px;
+    }
+    .stafinfo .abtstaf h3 {
+        text-align: center;
+    }
+    .tabrow {
+        margin-top: 1rem;
+    }
+    .ct-navtabs.nav-tabs {
+        display: inline-block;
+        width: 100%;
+        vertical-align: top;
+        white-space: nowrap;
+        overflow-x: auto;
+        margin-bottom: 1rem;
+    }
+    .ct-navtabs.nav-tabs li {
+        display: inline-block;
+        vertical-align: top;
+        width: auto;
+    }
+    .ct-navtabs.nav-tabs li a.active {
+        border-left: none;
+        background-color: #da251c;
+        color: #fff;
+    }
+    .ct-navtabs.nav-tabs li a {
+        border-left: none;
+        padding: 0.5rem;
+    }
+    .iq-home .rpimg {
+        width: 220px;
+        margin: 0 auto;
+    }
+    .section.secerror {
+        padding: 2rem 0;
+    }
+    .section.secblog {
+        padding: 2rem 0;
+    }
+    .benef-blinner h3 {
+        padding: 10px 15px;
+        font-size: 1.2rem;
+    }
+    .section.pagetitle {
+        background-position: center center;
+    }
+    .blogcard {
+        height: auto;
+    }
+    .tx-adm .cmnform {
+        padding: 10px 0 0;
+    }
+    .section.pgdm-terms {
+        padding-bottom: 1rem;
+    }
+    .section.pagetitle.abtpagetitle {
+        min-height: 160px;
+    }
+    .sitetag h5 {
+        letter-spacing: normal;
+    }
+    .shortcourse .vd-bxbg {
+        margin: 1rem 0;
+    }
+    .trainer-img::before {
+        top: 10px;
+        right: -10px;
+    }
+    .aboutrainer .trainer-info {
+        margin-top: 2rem;
+    }
+    .trainer-info h5 {
+        margin-bottom: 1rem;
+    }
+    .trainer-info h6 {
+        margin-bottom: 0.5rem;
+    }
+    .form-items {
+        padding: 15px;
+    }
+    .form-items h3 {
+        font-weight: 500;
+        font-size: 1.2rem;
+    }
+    .section.loginsec {
+        padding: 2rem 0;
+    }
+    .resptable thead {
+        display: none;
+    }
+    .resptable tbody tr td:before {
+        content: attr(data-label);
+        float: left;
+        font-weight: 500;
+        padding-right: 10px;
+    }
+    .resptable tbody tr td {
+        display: block;
+        text-align: right;
+    }
+    .cartable .remove {
+        text-align: right;
+    }
+    .cartable tr td {
+        display: block;
+    }
+    .cartable .coupon {
+        justify-content: center;
+    }
+    .epgdmfaq.contact .skill-list li {
+        width: 100%;
+        margin-bottom: 0;
+    }
+    .btnlarge {
+        padding: 0.75rem 0.5rem;
+    }
+    .btnlr .btn {
+        margin: 0 10px 10px;
+    }
+    .section.admission .container {
+        padding: 0;
+    }
+    .dglist li {
+        width: 100%;
+        padding: 0;
+        margin-bottom: 10px;
+    }
+    .dglist li a {
+        height: auto;
+    }
+    .inner-page-banner-area {
+        padding: 40px 0;
+    }
+    .blog-details-page-area {
+        padding: 20px 0;
+    }
+    .title-default {
+        font-size: 1.2rem;
+    }
+    .posts_navigation .bloglink {
+        margin: 10px 0;
+    }
+    .posts_navigation {
+        padding: 10px 0;
+    }
+    .widgetable .dataTables_length {
+        text-align: center;
+    }
+    .widgetable .dataTables_filter {
+        text-align: center;
+    }
+    .widgetable .dataTables_info {
+        margin-bottom: 10px;
+    }
+    .hidemob {
+        display: none !important;
+    }
+    .whatsapp {
+        display: block;
+    }
+    .inner-page-banner-area .blogtitle-area h1 {
+        font-size: 20px;
+    }
+    /*.section.homeslider {*/
+    /*    height: 260px;*/
+    /*}*/
+    .payinfo .paybx h2{
+        font-size:2rem;
+    }
+    .payinfo .paybx .icon{
+        margin-bottom:20px;
+    }
+    .payinfo .paybx{
+        margin-bottom:1rem;
+    }
+    .section.payinfo{
+        padding-bottom:1rem;
+    }
+    .section.payinfo h4{
+        font-size:1rem;
+    }
+    .placement .txltitle h2, .placement .txltitle h1 {
+        font-size:18px;
+    }
+    .s-bx li.dpb .tx-s-content .btn{
+        margin-top:20px;
+    }
+    .minimbadlc h2{
+        font-size:20px;
+    }
+    .mbacertificate .inputname .form-control{
+        font-size:16px;
+        height:24px;
+        line-height:24px;
+    }
+    .minimbadlc .cmnform{
+        text-align:center;
+    }
+    .mbacertificate .inputname{
+        margin-top:0px;
+    }
+    .cardtimer .tmr span{
+        font-size:13px;
+    }
+    .btnBlock.ddbtn{
+        margin-top:1rem;
+    }
+    .card.cardtimer{
+        width:96%;
+        margin:0 auto;
+    }
+    .campusview .campuslist li{
+        padding-bottom:0;
+    }
+    .enquirereq{
+        width:140px;
+        top:auto;
+        bottom:230px;
+    }
+    .screen-events .campusframe {
+        padding: 5px;
+    }
+    .tmreclist li .tmquote .ythumb .playbtn {
+        left: 48%;
+    }
+    .applynow {
+       position: inherit;
+       right: 0%;
+        margin: 15px 0px;
+}
+    .section.homeslider {
+    overflow: hidden;
+  }
+}
+@media screen and (max-width: 479px) {
+    .cartable tfoot .btn {
+        margin-top: 10px;
+    }
+    .tmreclist li .tmquote .ythumb .playbtn {
+        left: 46%;
+        top: 61%;
+    }
+    
+}
